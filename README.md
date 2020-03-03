@@ -6,8 +6,10 @@
 * `git clone git@github.com:ahmadabdelhalim/max.git`
 * `cd max`
 * run `ruby main.rb` in the command line
-* Enter your input as shown in the image below (please note that you have to add a space between 1 and the other number) 
+* Enter your input as shown in the image below (please note that you have to add a space between 1 and the other number)
+
   ![input](https://i.imgur.com/NKDIt8T.png)
 
-* Example output that prints maximum elements:
+* Example output that prints maximum values:
+
   ![output](https://i.imgur.com/Uid97Xr.png)
